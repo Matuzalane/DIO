@@ -8,6 +8,7 @@ namespace dotNET_Introducao.Models
     public class Pessoa
     {
         public string Nome { get; set; }
+        public string NomeRepresentanteLegalDaPessoaFisica { get; set; }
         public int Idade { get; set; }
 
         public void Apresentar()
