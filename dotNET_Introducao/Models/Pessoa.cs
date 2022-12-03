@@ -5,15 +5,15 @@ using System.Threading.Tasks;
 
 namespace dotNET_Introducao.Models
 {
-    public class Pessoa
+    public class Person
     {
-        public string Nome { get; set; }
-        public string NomeRepresentanteLegalDaPessoaFisica { get; set; }
-        public int Idade { get; set; }
+        public string Name { get; set; }
+        public string NameOfLegalRepresentantOfPhysicalPerson { get; set; }
+        public int Age { get; set; }
 
-        public void Apresentar()
+        public void Present()
         {
-            Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos");
+            Console.WriteLine($"Hi, my Name is {Name}, and I am {Age} years old");
         }
     }
 }
