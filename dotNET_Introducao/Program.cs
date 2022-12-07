@@ -276,3 +276,29 @@
     }
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// ----------------- Arrays and Lists in C# ------------------ // 
+// ----------------------------------------------------------- //
+
+    // Array of Integers
+    int[] arrayIntegers = new int[4];
+
+    arrayIntegers[0] = 72;
+    arrayIntegers[1] = 64;
+    arrayIntegers[2] = 50;
+    arrayIntegers[3] = 1;
+
+    // for(int counter = 0; counter < arrayIntegers.Length; counter++)
+    // {
+    //     Console.WriteLine($"Posição Nº {counter} - {arrayIntegers[counter]}");
+    // }
+
+    int foreachCounter = 0;
+    foreach(int valor in arrayIntegers)
+    {
+        Console.WriteLine($"Posição Nº {foreachCounter} - {valor}");
+        foreachCounter++;
+    }
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
