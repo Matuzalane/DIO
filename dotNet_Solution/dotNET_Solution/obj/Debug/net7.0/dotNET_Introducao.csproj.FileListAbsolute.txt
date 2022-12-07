@@ -1,0 +1,15 @@
+C:\workspace\DIO\dotNET_Introducao\bin\Debug\net7.0\dotNET_Introducao.exe
+C:\workspace\DIO\dotNET_Introducao\bin\Debug\net7.0\dotNET_Introducao.deps.json
+C:\workspace\DIO\dotNET_Introducao\bin\Debug\net7.0\dotNET_Introducao.runtimeconfig.json
+C:\workspace\DIO\dotNET_Introducao\bin\Debug\net7.0\dotNET_Introducao.dll
+C:\workspace\DIO\dotNET_Introducao\bin\Debug\net7.0\dotNET_Introducao.pdb
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\dotNET_Introducao.csproj.AssemblyReference.cache
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\dotNET_Introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\dotNET_Introducao.AssemblyInfoInputs.cache
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\dotNET_Introducao.AssemblyInfo.cs
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\dotNET_Introducao.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\dotNET_Introducao.dll
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\refint\dotNET_Introducao.dll
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\dotNET_Introducao.pdb
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\dotNET_Introducao.genruntimeconfig.cache
+C:\workspace\DIO\dotNET_Introducao\obj\Debug\net7.0\ref\dotNET_Introducao.dll
