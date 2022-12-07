@@ -157,3 +157,56 @@
     Console.WriteLine(x);
     
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// --------------- Arithmetic Operators in C# ---------------- // 
+// ----------------------------------------------------------- //
+
+    // Creating and using a calculator class
+    Calculator calc = new Calculator();
+
+    calc.Sum(10, 30);
+    calc.Subtract(10, 50);
+    calc.Multiply(15, 45);
+    calc.Divide(2, 2);
+    calc.Power(3, 5);
+    calc.Sine(30);
+    calc.Cosine(30);
+    calc.Tangent(30);
+    calc.SquareRoot(9);
+
+    // Increment and Decrement
+    int num = 10;
+
+    Console.WriteLine(num);
+
+    Console.WriteLine("Incrementing the num var");
+    //num = num + 1;
+    num++;
+
+    Console.WriteLine(num);
+
+    Console.WriteLine("Decrementing the num var");
+    //num = num - 1;
+    num--;
+
+    Console.WriteLine(num);
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// -------------- Repetition Structures in C# ---------------- // 
+// ----------------------------------------------------------- //
+
+    // FOR
+    num = 5;
+
+    for(int counter = 0; counter <= 10; counter++)
+    {
+        Console.WriteLine($"{num} x {counter} = {num * counter}");
+    }
+
+    // WHILE
+    
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
