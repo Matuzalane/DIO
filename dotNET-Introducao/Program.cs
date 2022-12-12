@@ -301,4 +301,23 @@
         foreachCounter++;
     }
 
+    // Lists
+    List<string> listString = new List<string>();
+
+    listString.Add("SP");
+    listString.Add("BA");
+    listString.Add("MG");
+
+    // for(int counter = 0; counter < listString.Count; counter++)
+    // {
+    //     Console.WriteLine($"Posição Nº {counter} - {listString[counter]}");
+    // }
+
+    foreachCounter = 0;
+    foreach(string item in listString)
+    {
+        Console.WriteLine($"Posição Nº {foreachCounter} - {item}");
+        foreachCounter++;
+    }
+
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
