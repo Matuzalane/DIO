@@ -25,11 +25,15 @@ namespace dotNET_Explorando_Csharp.Models
         }
         public void ListStudent()
         {
-            Console.WriteLine($"Students from the course: {Name}")
-            foreach (Person student in Students)
-            {   
-                Console.WriteLine(student.FullName);
+            Console.WriteLine($"Students from the course: {Name}");
+
+            for (int i = 0; i < Students.Count; i++)
+            {
+                // string text = "Nº " + i + " - " + Students[i].FullName;
+                string text = $"Nº {i + 1} - {Students[i].FullName}";
+                Console.WriteLine(text);
             }
+
         }
     }
 }
