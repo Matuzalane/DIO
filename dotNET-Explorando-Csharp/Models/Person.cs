@@ -18,6 +18,12 @@ namespace dotNET_Explorando_Csharp.Models
             LastName = lastname;
         }
 
+        public void Deconstruct(out string name, out string lastname)
+        {
+            name = Name;
+            lastname = LastName;
+        }
+
         private string _name;
         private int _age;
 

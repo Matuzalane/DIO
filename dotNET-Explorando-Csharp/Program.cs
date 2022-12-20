@@ -140,3 +140,58 @@ englishCourse.ListStudent();
     }
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// ----------------- How Tuples work in c# ------------------- // 
+// ----------------------------------------------------------- //
+
+    (int Id, string Name, string LastName, decimal Height) tuple = (1, "Caleb", "Castilho Nunes", 1.85M);
+
+    // ValueTuple<int, string, string, decimal> anotherExempleTuple = (1, "Caleb", "Castilho Nunes", 1.85M);
+    // var anotherExempleTupleCreate = Tuple.Create(1, "Caleb", "Castilho Nunes", 1.85M);
+
+    Console.WriteLine($"Id: {tuple.Item1}");
+    Console.WriteLine($"Name: {tuple.Item2}");
+    Console.WriteLine($"Last Name: {tuple.Item3}");
+    Console.WriteLine($"Height: {tuple.Item4}");
+
+    FileReading archieve = new FileReading();
+
+    var (success, archiveLines, _) = archieve.ReadFile("Archives/readFlie.txt");
+
+    if (success)
+    {
+        //Console.WriteLine($"Number of lines in the archieve: {numberOfLines}");
+        foreach (var line in archiveLines)
+        {
+            Console.WriteLine(line);
+        }
+    }
+    else
+    {
+        Console.WriteLine("Could not read the file.");
+    }
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// -------------- How Deconstruct work in c# ----------------- // 
+// ----------------------------------------------------------- //
+
+    Person p3 = new Person("Caleb", "Castilho Nunes");
+
+    (string name, string lastname) = p3;
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// -------------- How ternary if work in c# ------------------ // 
+// ----------------------------------------------------------- //
+
+    int number = 15;
+    bool isEven = false;
+
+    isEven = number % 2 == 0;
+    Console.WriteLine($"The number {number} is " + (isEven ? "Even" : "Odd"));
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
