@@ -1,14 +1,16 @@
 [
   {
     "Id": 1,
-    "Product_Name": "Office Supplies",
+    "Nome_Produto": "Office Supplies",
     "Price": 25.00,
-    "SaleDate": "2022-12-21T16:43:33.4618505-03:00"
+    "SaleDate": "2022-12-21T17:47:06.5688186-03:00",
+    "Discount": 0.0
   },
   {
     "Id": 2,
-    "Product_Name": "Software License",
+    "Nome_Produto": "Software License",
     "Price": 150.00,
-    "SaleDate": "2022-12-21T16:43:33.4618505-03:00"
+    "SaleDate": "2022-12-21T17:47:06.5688186-03:00",
+    "Discount": 0.0
   }
 ]

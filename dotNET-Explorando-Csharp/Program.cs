@@ -234,3 +234,66 @@ englishCourse.ListStudent();
     }
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// ----------------- Special Tipes in C# --------------------- // 
+// ----------------------------------------------------------- //
+
+    // Nulable Tipes
+    bool? wantReceiveEmail = null;
+
+    if (wantReceiveEmail.HasValue && wantReceiveEmail.Value)
+    {
+        Console.WriteLine("The user has opted in to receive email.");
+    }
+    else
+    {
+        Console.WriteLine("The user did not respond or opted out of receiving email.");
+    }
+
+
+    // Anonymous Tipes
+    var anonymousTipe = new { Name = "Caleb", LastName = "Castilho Nunes", Height = 1.80 };
+
+    Console.WriteLine("Name: " + anonymousTipe.Name);
+    Console.WriteLine("Last Name: " + anonymousTipe.LastName);
+    Console.WriteLine("Height: " + anonymousTipe.Height);
+
+
+    // Dynamics Tipes
+    dynamic dynamicVariable = 4;
+    Console.WriteLine($"Variable Type: {dynamicVariable.GetType()}, Value: {dynamicVariable}");
+
+    dynamicVariable = "Text";
+    Console.WriteLine($"Variable Type: {dynamicVariable.GetType()}, Value: {dynamicVariable}");
+
+    dynamicVariable = true;
+    Console.WriteLine($"Variable Type: {dynamicVariable.GetType()}, Value: {dynamicVariable}");
+
+
+    // Generic Class in C# 
+    MyArray<string> arrayString = new MyArray<string>();
+
+    arrayString.AddElementArray("Caleb Castilho Nunes");
+
+    Console.WriteLine(arrayString[0]);
+
+
+    MyArray<int> arrayInteger = new MyArray<int>();
+
+    arrayInteger.AddElementArray(30);
+
+    Console.WriteLine(arrayInteger[0]);
+
+
+    // Extension Methods in c# 
+    int x = 15;
+    bool isOdd = false;
+
+    isOdd = x.IsEven();
+
+    string mensage = $"The number {x} is " + (isOdd ? "Even" : "Odd");
+    Console.WriteLine(mensage);
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //

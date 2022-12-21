@@ -20,8 +20,9 @@ namespace Models
 
         [JsonProperty("Nome_Produto")]
         public string Product { get; set;  }
-        
+
         public decimal Price { get; set;  }
         public DateTime SaleDate { get; set; }
+        public decimal Discount { get; set; }
     }
 }
