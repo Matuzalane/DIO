@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Product_Name": "Office Supplies",
+    "Price": 25.00,
+    "SaleDate": "2022-12-21T16:43:33.4618505-03:00"
+  },
+  {
+    "Id": 2,
+    "Product_Name": "Software License",
+    "Price": 150.00,
+    "SaleDate": "2022-12-21T16:43:33.4618505-03:00"
+  }
+]

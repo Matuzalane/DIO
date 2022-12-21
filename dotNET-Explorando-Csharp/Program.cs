@@ -1,4 +1,6 @@
 ﻿using dotNET_Explorando_Csharp.Models;
+using Models;
+using Newtonsoft.Json;
 
 Person p1 = new Person(name: "Caleb", lastname: "Nunes");
 Person p2 = new Person(name: "Eduardo", lastname: "Neves Queiroz");
@@ -193,5 +195,42 @@ englishCourse.ListStudent();
 
     isEven = number % 2 == 0;
     Console.WriteLine($"The number {number} is " + (isEven ? "Even" : "Odd"));
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// -------------- Serialization in Practice ------------------ // 
+// ----------------------------------------------------------- //
+
+    DateTime currentDate = DateTime.Now;
+
+    List<Sale> salesList = new List<Sale>();
+
+    Sale s1 = new Sale(1, "Office Supplies", 25.00M, currentDate);
+    Sale s2 = new Sale(2, "Software License", 150.00M, currentDate);
+
+    salesList.Add(s1);
+    salesList.Add(s2);
+
+    string serialized = JsonConvert.SerializeObject(salesList, Formatting.Indented);
+
+    File.WriteAllText("Archives/sales.json", serialized);
+
+    Console.WriteLine(serialized);
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// ------------- Deserialization in Practice ----------------- // 
+// ----------------------------------------------------------- //
+
+    string archiveContent = File.ReadAllText("Archives/sales.json");
+
+    List<Sale> salesConvert = JsonConvert.DeserializeObject<List<Sale>>(archiveContent);
+
+    foreach (Sale sale in salesConvert)
+    {
+        Console.WriteLine($"Id: {sale.Id}, Product: {sale.Product}, Price: {sale.Price}, Date: {sale.SaleDate.ToString("dd/MM/yyyy HH:mm")}");
+    }
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //

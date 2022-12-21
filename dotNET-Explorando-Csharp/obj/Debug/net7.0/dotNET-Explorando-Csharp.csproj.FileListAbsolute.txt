@@ -1,0 +1,17 @@
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\dotNET-Explorando-Csharp.csproj.AssemblyReference.cache
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\dotNET-Explorando-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\dotNET-Explorando-Csharp.AssemblyInfoInputs.cache
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\dotNET-Explorando-Csharp.AssemblyInfo.cs
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\dotNET-Explorando-Csharp.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\dotNET-Explorando-Csharp\bin\Debug\net7.0\dotNET-Explorando-Csharp.exe
+C:\workspace\DIO\dotNET-Explorando-Csharp\bin\Debug\net7.0\dotNET-Explorando-Csharp.deps.json
+C:\workspace\DIO\dotNET-Explorando-Csharp\bin\Debug\net7.0\dotNET-Explorando-Csharp.runtimeconfig.json
+C:\workspace\DIO\dotNET-Explorando-Csharp\bin\Debug\net7.0\dotNET-Explorando-Csharp.dll
+C:\workspace\DIO\dotNET-Explorando-Csharp\bin\Debug\net7.0\dotNET-Explorando-Csharp.pdb
+C:\workspace\DIO\dotNET-Explorando-Csharp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\dotNET-Explorando-Csharp.csproj.CopyComplete
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\dotNET-Explorando-Csharp.dll
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\refint\dotNET-Explorando-Csharp.dll
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\dotNET-Explorando-Csharp.pdb
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\dotNET-Explorando-Csharp.genruntimeconfig.cache
+C:\workspace\DIO\dotNET-Explorando-Csharp\obj\Debug\net7.0\ref\dotNET-Explorando-Csharp.dll
