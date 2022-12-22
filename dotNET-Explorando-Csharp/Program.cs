@@ -293,7 +293,34 @@ englishCourse.ListStudent();
     isOdd = x.IsEven();
 
     string mensage = $"The number {x} is " + (isOdd ? "Even" : "Odd");
-    Console.WriteLine(mensage);
+Console.WriteLine(mensage);
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
+
+// ----------------------------------------------------------- //
+// --------- Stack, Heap e Garbage Collector in C# ----------- // 
+// ----------------------------------------------------------- //
+
+    // ------ STACK ------ //
+    /* Stack allocates in memory all variable types and their reference values 
+       EX.:  a = 10;
+             b = a;
+             Person p1 = new Person(name: "Caleb", lastname: "Nunes");
+
+    */
+
+
+    // ------ HEAP ------ //
+    /* Heap allocate more complex type variables in memory, such as Objects 
+       Ex.:  Person p1 = new Person(name: "Caleb", lastname: "Nunes");
+
+    */
+
+
+    // ------ Garbage Collector ------ //
+    /* Clears all data from Heap memory that does not have a reference 
+    in Stack memory */
 
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
