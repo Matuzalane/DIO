@@ -1,0 +1,15 @@
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\bin\Debug\net7.0\Aumento de Salário.exe
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\bin\Debug\net7.0\Aumento de Salário.deps.json
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\bin\Debug\net7.0\Aumento de Salário.runtimeconfig.json
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\bin\Debug\net7.0\Aumento de Salário.dll
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\bin\Debug\net7.0\Aumento de Salário.pdb
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\Aumento de Salário.csproj.AssemblyReference.cache
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\Aumento de Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\Aumento de Salário.AssemblyInfoInputs.cache
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\Aumento de Salário.AssemblyInfo.cs
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\Aumento de Salário.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\Aumento de Salário.dll
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\refint\Aumento de Salário.dll
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\Aumento de Salário.pdb
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\Aumento de Salário.genruntimeconfig.cache
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Aumento de Salário\obj\Debug\net7.0\ref\Aumento de Salário.dll

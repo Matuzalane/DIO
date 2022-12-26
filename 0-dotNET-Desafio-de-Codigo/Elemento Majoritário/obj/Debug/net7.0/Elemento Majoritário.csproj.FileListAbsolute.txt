@@ -1,0 +1,15 @@
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\bin\Debug\net7.0\Elemento Majoritário.exe
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\bin\Debug\net7.0\Elemento Majoritário.deps.json
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\bin\Debug\net7.0\Elemento Majoritário.runtimeconfig.json
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\bin\Debug\net7.0\Elemento Majoritário.dll
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\bin\Debug\net7.0\Elemento Majoritário.pdb
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\Elemento Majoritário.csproj.AssemblyReference.cache
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\Elemento Majoritário.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\Elemento Majoritário.AssemblyInfoInputs.cache
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\Elemento Majoritário.AssemblyInfo.cs
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\Elemento Majoritário.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\Elemento Majoritário.dll
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\refint\Elemento Majoritário.dll
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\Elemento Majoritário.pdb
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\Elemento Majoritário.genruntimeconfig.cache
+C:\workspace\DIO\dotNET-Desafio-de-Codigo\Elemento Majoritário\obj\Debug\net7.0\ref\Elemento Majoritário.dll
