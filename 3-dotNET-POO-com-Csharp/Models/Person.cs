@@ -7,8 +7,18 @@ namespace _3_dotNET_POO_com_Csharp.Models
 {
     public class Person
     {
+        public Person()
+        {
+            
+        }
+        public Person(string name)
+        {
+            Name = name;
+        }
+
         public string Name { get; set; }
         public int Age { get; set; }
+        public string Email { get; set; }
 
         public virtual void Introduce()
         {

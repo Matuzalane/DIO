@@ -7,6 +7,15 @@ namespace _3_dotNET_POO_com_Csharp.Models
 {
     public class Teacher : Person
     {
+        public Teacher()
+        {
+            
+        }
+        public Teacher(string name) : base(name)
+        {
+            
+        }
+        
         public decimal Salary { get; set; }
 
         public override void Introduce()

@@ -1,4 +1,5 @@
 ﻿using _3_dotNET_POO_com_Csharp.Models;
+using _3_dotNET_POO_com_Csharp.Interfaces;
 
 // OOP example
 Person p1 = new Person();
@@ -34,3 +35,7 @@ t1.Introduce();
 Current c = new Current();
 c.Credit(500);
 c.ShowBalance();
+
+// Interfaces example
+ICalculator calc = new Calculator();
+Console.WriteLine(calc.Multiply(3, 9));

@@ -7,6 +7,15 @@ namespace _3_dotNET_POO_com_Csharp.Models
 {
     public class Student : Person
     {
+        public Student()
+        {
+            
+        }
+        public Student(string name) : base(name)
+        {
+            
+        }
+
         public double Grade { get; set; }
 
         public override void Introduce()
