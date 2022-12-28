@@ -1,0 +1,15 @@
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\bin\Debug\net7.0\3-dotNET-POO-com-Csharp.exe
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\bin\Debug\net7.0\3-dotNET-POO-com-Csharp.deps.json
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\bin\Debug\net7.0\3-dotNET-POO-com-Csharp.runtimeconfig.json
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\bin\Debug\net7.0\3-dotNET-POO-com-Csharp.dll
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\bin\Debug\net7.0\3-dotNET-POO-com-Csharp.pdb
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\3-dotNET-POO-com-Csharp.csproj.AssemblyReference.cache
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\3-dotNET-POO-com-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\3-dotNET-POO-com-Csharp.AssemblyInfoInputs.cache
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\3-dotNET-POO-com-Csharp.AssemblyInfo.cs
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\3-dotNET-POO-com-Csharp.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\3-dotNET-POO-com-Csharp.dll
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\refint\3-dotNET-POO-com-Csharp.dll
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\3-dotNET-POO-com-Csharp.pdb
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\3-dotNET-POO-com-Csharp.genruntimeconfig.cache
+C:\workspace\DIO\3-dotNET-POO-com-Csharp\obj\Debug\net7.0\ref\3-dotNET-POO-com-Csharp.dll
