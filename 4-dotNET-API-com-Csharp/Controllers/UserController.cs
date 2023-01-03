@@ -25,9 +25,9 @@ namespace _4_dotNET_API_com_Csharp.Controllers
         [HttpGet("Introduce/{name}")]
         public IActionResult Introduce(string name)
         {
-            var mensage = $"Hello {name}, be welcome!";
+            var menssage = $"Hello {name}, be welcome!";
 
-            return Ok(new { mensage });
+            return Ok(new { menssage });
         }
     }
 }
