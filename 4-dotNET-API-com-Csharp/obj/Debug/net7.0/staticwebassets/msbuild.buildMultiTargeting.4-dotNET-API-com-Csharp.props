@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\4-dotNET-API-com-Csharp.props" />
+</Project>
