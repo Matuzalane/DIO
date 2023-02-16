@@ -20,7 +20,7 @@ export class ListagemFilmesComponent implements OnInit {
   };
   filmes: Filme[] = [];
   filtrosListagem!: FormGroup;
-  generos: Array<string> = [];
+  generos!: Array<string>;
 
   constructor(private filmesService: FilmesService,
               private fb: FormBuilder,
@@ -32,14 +32,14 @@ export class ListagemFilmesComponent implements OnInit {
       genero: ['']
     });
 
-    this.filtrosListagem.get('texto')!.valueChanges
+    this.filtrosListagem.get('texto')?.valueChanges
     .pipe(debounceTime(400))
     .subscribe((val: string) => {
       this.config.pesquisa = val;
       this.resetarConsulta();
     });
 
-    this.filtrosListagem.get('genero')!.valueChanges.subscribe((val: string) => {
+    this.filtrosListagem.get('genero')?.valueChanges.subscribe((val: string) => {
       this.config.campo = {tipo: 'genero', valor: val};
       this.resetarConsulta();
     });

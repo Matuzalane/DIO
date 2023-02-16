@@ -15,9 +15,9 @@ import { CamposModule } from 'src/app/shared/components/campos/campos.module';
   styleUrls: ['./cadastro-filmes.component.scss']
 })
 export class CadastroFilmesComponent implements OnInit {
-
-  id!: number;
+  
   cadastro!: FormGroup;
+  id!: number;
   generos!: Array<string>;
 
   constructor(public validacao: ValidarCamposService,
