@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "livros_ecommerce"
+  "defaultProject": "livros_ecommerce",
+  "cli": {
+    "analytics": "44847ed2-6c4e-417a-8cd8-66fc3519b314"
+  }
 }
