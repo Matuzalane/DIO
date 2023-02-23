@@ -53,14 +53,15 @@
 }
 
 .s-wrapper .s-main-content .s-logo img{
-  margin-top: 50px;
+  margin-top: 30px;
   margin-left: 0;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
+  max-height: 3.375rem;
 }
 
 .s-wrapper .s-main-content__top .s-description{
   background-color: rgba(0,0,0,.7);
-  max-width: 50%;
+  max-width: 60%;
   padding: 20px;
   border-radius: 10px;
 }
