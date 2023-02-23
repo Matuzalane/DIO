@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { EventManager } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-filters',
@@ -7,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class FiltersComponent {
 
+  
 }
